@@ -1,0 +1,21 @@
+div {
+  width: 90%;
+  display: inline-block;
+  font: blue;
+  height: 10vh;
+  margin: center;
+  background-color: #11a0c4;
+  margin-top: 0%;
+  padding-bottom: 200px;
+  padding-left: 30%;
+}
+
+input,
+button {
+  display: inline-block;
+  padding: 25px;
+  padding-left: 4%;
+  text-align: center;
+  margin: center;
+  border: 2px solid rgb(223, 55, 55);
+}
