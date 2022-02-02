@@ -3,7 +3,7 @@ let btnSubtract = document.querySelector('#subtract');
 let input = document.querySelector('input');
 
 btnAdd.addEventListener('click',() => {
-    input.value = parseInt(input.value)+2;
+    input.value = parseInt(input.value)+3;
 
 });
 
